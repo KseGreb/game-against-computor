@@ -1,0 +1,35 @@
+body{
+    background-image: url("rest.jpg") ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    background-color: #fe9da8
+    
+}
+.container{
+    border: 3px solid #818eac;
+    border-radius: 20px;
+    padding: 20px;
+    max-width: 60%;
+    opacity: 0;
+
+}
+#guess{
+    background-color: #f7cee1;
+    border: none;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 20px;
+}
+#btn{
+    background-color: #818eac ;
+    color: #f7cee1;
+    font-size: 20px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px;
+}
+p{
+    font-size: 20px;
+}
+
